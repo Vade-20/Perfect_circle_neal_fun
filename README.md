@@ -31,6 +31,7 @@ This Python script utilizes the `pyautogui` library to draw a circle with 99% ac
 ## Parameters
 
 - `Radius`: Adjust the value of the `Radius` variable to control the size of the circle. If the cursor moves out of the screen, try reducing the radius.
+- `curvature`: Adjust the curvature of the circle.
 
 ## Notes
 
@@ -41,6 +42,7 @@ This Python script utilizes the `pyautogui` library to draw a circle with 99% ac
 ## Caution
 
 - Make sure the website is in fullscreen mode before running the script to ensure accurate drawing.
+-Please note that the perfect circle on neal.fun may appear as a triangle. To draw a conventional circle, adjust the divisor to `6`.
 
 ## Acknowledgments
 

@@ -1,4 +1,4 @@
-# PErfect Circle  
+# Perfect Circle  
 
 ## Overview
 
@@ -42,8 +42,4 @@ This Python script utilizes the `pyautogui` library to draw a circle with 99% ac
 ## Caution
 
 - Make sure the website is in fullscreen mode before running the script to ensure accurate drawing.
--Please note that the perfect circle on neal.fun may appear as a triangle. To draw a conventional circle, adjust the divisor to `6`.
-
-## Acknowledgments
-
-This script is a fun and creative way to interact with the [neal.fun](https://neal.fun/perfect-circle/) website. It serves as a demonstration of how automation tools like `pyautogui` can be used for unconventional tasks.
+- Please note that the perfect circle on neal.fun may appear as a triangle. To draw a conventional circle, adjust the divisor to `6`.
